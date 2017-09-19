@@ -1,6 +1,6 @@
-# 星級評價UI元件
+# 星級評價UI元件
 
-支援code & storyboard
+Support storyboard
 
 ![](image01.png)
 ![](image02.png)
